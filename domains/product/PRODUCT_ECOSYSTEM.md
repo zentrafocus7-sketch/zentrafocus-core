@@ -4,4 +4,4 @@
 **Owner:** Domain Owner (Level 2) — currently Founder
 **Status:** Active — Policy
 **Last Updated:** 2026-07-25
-**Related Documents:** domains/product/DOMAIN.md, registry/products/free-guide.md, registry/products/focus-system.md, registry/products/focus-fundamentals.md, registry/repositories/focus-system-production.md, registry/repositories/free-guide-production.md
+**Related Documents:** domains/product/DOMAIN.md, registry/products/free-guide.md, registry/products/focus-system.md, registry/products/focus-fundamentals.md, registry/repositories/focus-system-production.md, registry/repositories/free-guide-production.md, domains/legal/COMPLIANCE_POLICY.md

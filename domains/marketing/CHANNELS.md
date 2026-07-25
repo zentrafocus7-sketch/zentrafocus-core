@@ -4,4 +4,4 @@
 **Owner:** Domain Owner (Level 2) — currently Founder
 **Status:** Active — Policy
 **Last Updated:** 2026-07-25
-**Related Documents:** domains/marketing/DOMAIN.md, domains/brand/VOICE.md, domains/brand/IDENTITY.md, registry/systems/kit.md, registry/repositories/kit-email-system.md, registry/repositories/meta-ads-system.md, registry/repositories/pinterest-system.md, registry/repositories/youtube-system.md, registry/repositories/instagram-content-system.md, registry/repositories/video-production-framework.md
+**Related Documents:** domains/marketing/DOMAIN.md, domains/brand/VOICE.md, domains/brand/IDENTITY.md, registry/systems/kit.md, registry/systems/tiktok.md, registry/systems/pinterest.md, registry/systems/youtube.md, registry/systems/instagram.md, registry/systems/meta-ads.md, registry/repositories/kit-email-system.md, registry/repositories/meta-ads-system.md, registry/repositories/pinterest-system.md, registry/repositories/youtube-system.md, registry/repositories/instagram-content-system.md, registry/repositories/video-production-framework.md
