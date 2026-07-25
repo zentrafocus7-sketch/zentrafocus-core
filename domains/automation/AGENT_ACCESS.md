@@ -1,0 +1,7 @@
+**Title:** Automation and Agent Access Policy
+**Purpose:** Defines what ZentraFocus's automations are permitted to do and the access boundary each one operates under, per constitution/PRINCIPLES.md Principle 5 (Least Privilege by Default) and Principle 6 (Humans and Agents Are Governed Identically).
+**Policy:** Known automations: ManyChat comment-to-DM automation, triggered by the keyword "FOCUS," scoped to Instagram comment/DM handling only (see registry/systems/manychat.md). Instagram Graph API automation, built on FastAPI and SQLite, deployed on Railway or Render, scoped to Instagram account actions only (see registry/services/instagram-automation.md). Every automation is scoped to exactly the function it performs — an automation handling comment-to-DM logic has no access to pricing, brand policy, or any constitutional material, and no automation is ever granted standing access beyond its stated function. A new automation is not considered active until it has a corresponding entry in registry/services/ naming its scope. No automation or AI agent holds, or can be granted, Level 0 (Founder) authority, per constitution/GOVERNANCE.md Section 12.
+**Owner:** Domain Owner (Level 2) — currently Founder
+**Status:** Active — Policy
+**Last Updated:** 2026-07-25
+**Related Documents:** domains/automation/DOMAIN.md, registry/services/instagram-automation.md, registry/systems/manychat.md, constitution/GOVERNANCE.md

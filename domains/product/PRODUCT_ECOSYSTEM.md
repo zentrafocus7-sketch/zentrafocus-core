@@ -1,0 +1,7 @@
+**Title:** Product Ecosystem Policy
+**Purpose:** Defines what ZentraFocus currently sells, at what tier, and under what pricing rule — the single reference for the product ladder so it's never restated (and risked drifting) anywhere else.
+**Policy:** Three tiers. Free — "The Dopamine Trap" / "30-Day Focus Reset" ebook, $0, lead magnet captured via Gumroad + Kit (see registry/products/free-guide.md). Paid — The Focus System, $17 (anchored from $47), live on Gumroad (see registry/products/focus-system.md). Planned — Focus Fundamentals, a course priced at approximately $97, not yet started (see registry/products/focus-fundamentals.md). Standing pricing rule: the $17 price for The Focus System stays fixed until at least 20 funnel completions have produced sufficient purchase validation — it is not touched before then regardless of pressure to change it. Product philosophy: prioritize offers that are created once, delivered automatically, generate recurring value, and require no manual fulfillment; avoid anything that adds operational complexity without a clear, direct revenue benefit.
+**Owner:** Domain Owner (Level 2) — currently Founder
+**Status:** Active — Policy
+**Last Updated:** 2026-07-25
+**Related Documents:** domains/product/DOMAIN.md, registry/products/free-guide.md, registry/products/focus-system.md, registry/products/focus-fundamentals.md

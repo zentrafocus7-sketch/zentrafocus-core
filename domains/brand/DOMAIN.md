@@ -3,6 +3,6 @@
 **Scope:** Rules for brand identity, voice, and visual standards that other domains and downstream systems must satisfy. Does not include creative assets, campaign execution, or design-system token values.
 **Owner:** Domain Owner (Level 2) — currently Founder
 **Status:** Active — Framework Only
-**Last Updated:** 2026-07-24
-**Related Documents:** constitution/BLUEPRINT.md, constitution/GOVERNANCE.md
-**Future Governed Documents:** IDENTITY.md, VOICE.md, VISUAL_SYSTEM.md, USAGE.md
+**Last Updated:** 2026-07-25
+**Related Documents:** constitution/BLUEPRINT.md, constitution/GOVERNANCE.md, IDENTITY.md, VOICE.md, VISUAL_SYSTEM.md, USAGE.md
+**Future Governed Documents:** None yet — all four originally anticipated documents now exist.

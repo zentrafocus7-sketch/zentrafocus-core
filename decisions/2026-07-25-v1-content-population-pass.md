@@ -1,0 +1,13 @@
+**Title:** Populate all four domains, design-system/, and registry/ with real, already-established business facts prior to first production use
+**Type:** Policy
+**Decision:** Founder directed that ZentraFocus Core be fully written out — every domain's policy, the design system, and the registry — before the repository moves into active production use, rather than populating it incrementally as each fact happened to become relevant (the default this Core was originally built to prefer, per constitution/PRINCIPLES.md, Principle 11). This is a deliberate Founder-level exception to that default, not a reversal of it: everything written below is a documented, already-existing business fact — nothing here was invented for the purpose of filling the repository.
+
+Created: domains/brand/IDENTITY.md, VOICE.md, VISUAL_SYSTEM.md, USAGE.md (fulfilling all four documents previously listed under Brand's Future Governed Documents); domains/product/PRODUCT_ECOSYSTEM.md; domains/marketing/CHANNELS.md; domains/automation/AGENT_ACCESS.md; design-system/TOKENS.md; nine registry entries across registry/products/, registry/systems/, registry/repositories/, and registry/services/. All four domains/*/DOMAIN.md files were updated to reference their new policy documents and to reflect that their previously listed future documents now exist.
+
+Facts recorded came from the standing ZentraFocus project record (brand positioning, voice, visual identity, product ecosystem and pricing, marketing channels and standing rules, known automations) — no new business decision was made in the course of writing these documents; this pass only brought Core into alignment with what was already true, per Mission's own standard that the day something is true in practice but not reflected in Core, Core has failed at its job.
+**Proposed By:** Claude (AI agent, acting as delegated Lead Architect)
+**Approved By:** Mohamed (Founder, Level 0) — direct instruction to complete all files before moving to production
+**Status:** Approved
+**Date:** 2026-07-25
+**Supersedes:** None
+**Related Documents:** domains/brand/IDENTITY.md, domains/brand/VOICE.md, domains/brand/VISUAL_SYSTEM.md, domains/brand/USAGE.md, domains/product/PRODUCT_ECOSYSTEM.md, domains/marketing/CHANNELS.md, domains/automation/AGENT_ACCESS.md, design-system/TOKENS.md, registry/products/free-guide.md, registry/products/focus-system.md, registry/products/focus-fundamentals.md, registry/systems/kit.md, registry/systems/gumroad.md, registry/systems/manychat.md, registry/systems/hosting.md, registry/repositories/zentrafocus-website.md, registry/services/instagram-automation.md
