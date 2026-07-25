@@ -2,7 +2,7 @@
 **Purpose:** Defines the physical repository structure that implements Mission, Principles, and Governance.
 **Owner:** Founder (Level 0)
 **Status:** Active — Constitutional
-**Last Updated:** 2026-07-24 (v1.0 completion pass — registry subtypes and decisions/ naming convention added; see decisions/)
+**Last Updated:** 2026-07-25 (registry/repositories/ broadened from source code to source code and content, per decisions/)
 **Related Documents:** MISSION.md, PRINCIPLES.md, GOVERNANCE.md
 
 ---
@@ -40,7 +40,7 @@ Seven directories, as of the v1.0 founding commit — the original six, plus `te
 
 **`archive/`** holds retired material — a domain whose subject no longer exists, a decision whose relevance has fully expired. It's distinct from `decisions/`: the ledger keeps growing forever as history, `archive/` is where substantive material goes once it's no longer even useful as active context, so `domains/` stays lean and trustworthy for what's actually current.
 
-**`registry/`** is the index of everything that matters to the business but doesn't live in Core — pointers to products, repositories, systems, and services, each tagged with an owner and a status. The four subdirectories are mutually exclusive by definition, not by convenience: `registry/products/` holds ZentraFocus's own sellable products; `registry/repositories/` holds source code repositories ZentraFocus owns, other than Core itself; `registry/systems/` holds third-party platforms or tools ZentraFocus depends on but doesn't own the code of; `registry/services/` holds automations or deployed processes ZentraFocus runs. Ownership of the code is what decides repositories vs. systems; who runs the process is what decides systems vs. services. This is what keeps Core small while still being the thing everything else defers to, per Mission's closing distinction: authority isn't a function of volume.
+**`registry/`** is the index of everything that matters to the business but doesn't live in Core — pointers to products, repositories, systems, and services, each tagged with an owner and a status. The four subdirectories are mutually exclusive by definition, not by convenience: `registry/products/` holds ZentraFocus's own sellable products; `registry/repositories/` holds source code and content repositories ZentraFocus owns, other than Core itself — including production playbooks and standards ZentraFocus has written for its own channels and products, not just code; `registry/systems/` holds third-party platforms or tools ZentraFocus depends on but doesn't own; `registry/services/` holds automations or deployed processes ZentraFocus runs. Ownership of the material is what decides repositories vs. systems; who runs the process is what decides systems vs. services. This is what keeps Core small while still being the thing everything else defers to, per Mission's closing distinction: authority isn't a function of volume.
 
 **`design-system/`** holds shared brand primitives as reusable values, not assets. It's the one piece of substantive product material allowed inside Core, because every downstream product depends on the same primitives, and duplicating them anywhere would violate Single Point of Truth (Principle 2).
 
